@@ -1,4 +1,9 @@
-temperature;
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main(){
+    double temperature;
     string temptFrom, temptTo;
     
     
